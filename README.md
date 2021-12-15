@@ -10,5 +10,4 @@ Data and workbooks related to stochastic process 1 coursework. Topic of final pr
 
 **covid_cases_prepped.csv**: Output of data_prep.ipynb Data is imputed, cleaned, shrunken, and encoded. This will be read in by modeling program.
 
-## Planned Files
-Data model, validation, and adequacy checks using R.
+**covid_count_model_and_evaluation.R**: Feature selection, model building, and model evalution of covid count data.
