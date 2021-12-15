@@ -1,5 +1,6 @@
 # stochastic_1_final_project_covid_modeling
-Data and workbooks related to stochastic process 1 coursework. Topic of final project is modeling new covid cases in 6 countries.
+Data and workbooks related to stochastic process 1 coursework. Topic of final project is modeling count of new covid cases in 6 countries.
+All final project files are located in project/finalized_code. Items in project were initial EDA, notes, and 50% point. Bibliography has been moved to the paper.
 
 ## Files
 **Covid_EDA.ipynb**: Exploratory data analysis on covid daily count of new cases dataset
